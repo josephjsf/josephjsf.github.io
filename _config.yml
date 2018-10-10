@@ -28,3 +28,6 @@ github:
 
 paginate_path: "page:num"
 plugins: [jekyll-paginate, jekyll-gist]
+
+# read more tag
+excerpt_separator: <!--more-->
