@@ -14,7 +14,7 @@ tags:
 
 首先是前置工程，過程中會用到的程式，設定 pom.xml，由maven來協助管理library的dependency
 
-<img src="https://i.imgur.com/6b9ipsm.png" alt="drawing" width="60%"/>
+<img src="https://i.imgur.com/cymLUci.png" alt="drawing" width="60%"/>
 
 建立Person.java：
 
