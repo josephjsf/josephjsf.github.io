@@ -10,12 +10,12 @@ permalink:        pretty
 title:            Joseph's 筆記
 tagline:          'A Jekyll theme'
 description:      ''
-url:              http://hyde.getpoole.com
+url:              https://josephjsf.github.io/
 baseurl:          "/"
 
 author:
   name:           'Joseph'
-  url:            https://josephjsf.github.io
+  url:            https://josephjsf.github.io/
 
 paginate:         10
 
