@@ -16,7 +16,7 @@ baseurl:          "/"
 
 author:
   name:           'Joseph'
-  url:            https://josephjsf.github.io/
+  url:            https://josephjsf.github.io
 
 paginate:         10
 
